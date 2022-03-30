@@ -167,3 +167,4 @@ C:\Code\ASP.net-app\JokesApp\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Delete.cs
 C:\Code\ASP.net-app\JokesApp\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Details.cshtml.g.cs
 C:\Code\ASP.net-app\JokesApp\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Edit.cshtml.g.cs
 C:\Code\ASP.net-app\JokesApp\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Index.cshtml.g.cs
+C:\Code\ASP.net-app\JokesApp\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\ShowSearchForm.cshtml.g.cs
