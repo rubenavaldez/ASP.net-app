@@ -2,7 +2,7 @@
 CRUD application that stores jokes
 
 ## Description 
-A full stack web app using ASP.Net to store user jokes. User are able to create, read, edit, and delete entries. Users must login in to create and edit jokes. User entries are stored in local SQL severe database. 
+A full stack web app using ASP.Net to store user jokes. Users are able to create, read, edit, and delete entries. Users must login in to create and edit jokes. User entries are stored in local SQL server database. 
 
 ## Technology
 
