@@ -6,14 +6,14 @@ A full stack web app using ASP.Net to store user jokes. User are able to create,
 
 ## Technology
 
-** C#
-** SQL Server
-** DotNet
-** VB.net
-** Blazor
-** Bootstrap
-** HTML
-** CSS
+**C#**
+**SQL Server**
+**DotNet**
+**VB.net**
+**Blazor**
+**Bootstrap**
+**HTML**
+**CSS**
 
 ## Developer 
 Ruben Valdez
